@@ -16,7 +16,7 @@ Juego popular de TV basado en responder correctamente las definiciones indicadas
 
 ![Activities](./activities.jpg)
 
-## Technical Description
+## Tecnología utilizada
 
 Para realizar este proyecto se ha utilizado HTML5, CSS y JavaScript.
 
